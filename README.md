@@ -2,12 +2,13 @@
 
 Este é um projeto em Java que permite o cadastro de alunos (CRUD). O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
+- Java 17
 - Spring Boot 3+
 - Spring Framework 6+
 - Hibernate 6+
 - Thymeleaf 3+
 - Maven 3.2+
-- IDE - Eclipse ou Spring Tool Suite (STS)
+- IDE - Netbeans 17
 - H2 Database
 
 ## Configuração do Projeto
